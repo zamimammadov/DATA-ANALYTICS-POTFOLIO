@@ -17,8 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [NextonNetflix](./Capstones%20and%20Coursworks/NextonNetflix)
   - [Predicting-SpaceX-Falcon-9-First-Stage-Landing-Success](./Capstones%20and%20Coursworks/Predicting-SpaceX-Falcon-9-First-Stage-Landing-Success)
 
-
-## Table of Contents
+---
 
 ### [End to end](#End_to_end)
 ### [Hospitality Revenue Analytics Dashboard](./Hospitality%20Revenue%20Analytics%20Dashboard%20(Power%20BI)%20%E2%80%94%20AtliQ%20Grands)
