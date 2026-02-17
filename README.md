@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ---
 
-### [End to end](#End_to_end)
+### End to end
 ### [Hospitality Revenue Analytics Dashboard](./Hospitality%20Revenue%20Analytics%20Dashboard%20(Power%20BI)%20%E2%80%94%20AtliQ%20Grands)
 
   - **Goal:** Track hotel revenue performance and identify the key levers for RevPAR growth (occupancy vs ADR), booking leakage (cancellations/realisation), platform mix, and property performance.
@@ -34,7 +34,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ---
 
-### [Power BI](./PowerBI)
+### Power BI
 
 ### [HR Analytics](./PowerBI/HR%20Analytics)
 
@@ -50,7 +50,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ---
 
-### [Capstones and Coursworks](./Capstones%20and%20Coursworks)
+### Capstones and Coursworks
 ### [NextonNetflix](./Capstones%20and%20Coursworks/NextonNetflix)
   - **Goal:** Build a lightweight movie web app that recommends similar movies and classifies user review sentiment (Good/Bad).
   - **Tech:** Python, Flask, scikit-learn (CountVectorizer + cosine similarity, Multinomial Naive Bayes), Bootstrap, TMDB API.
