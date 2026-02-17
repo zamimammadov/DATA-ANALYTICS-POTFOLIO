@@ -33,34 +33,6 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ---
 
-### Python
-- **Goal:** Demonstrate Python-based analytics workflows (cleaning, EDA, visualization, and small ML where needed).
-- **Tech:** Python (pandas, numpy, matplotlib), Jupyter Notebook.
-- **Output:** Reproducible notebooks with clear steps and results.
-
----
-
-### SQL
-- **Goal:** Write reliable KPI queries and validate data quality for reporting (joins, aggregations, and advanced patterns when needed).
-- **Tech:** SQL (MySQL / PostgreSQL-style), CTEs, window functions.
-- **Output:** Query files + documented metric logic and validation checks.
-
----
-
-### Excel / Google Sheets
-- **Goal:** Build fast reporting using spreadsheets with consistent KPI logic and clean structures.
-- **Tech:** Excel / Google Sheets (PivotTables, Power Query, XLOOKUP/SUMIFS).
-- **Output:** KPI summaries and lightweight dashboards (exported screenshots/PDFs).
-
----
-
-### Tableau
-- **Goal:** Communicate insights using interactive visualizations and stakeholder-ready dashboards.
-- **Tech:** Tableau (calculated fields, filters, dashboard layout).
-- **Output:** Dashboard(s) + short written summary of insights.
-
----
-
 ### [Power BI](./PowerBI)
 
 ### [HR Analytics](./PowerBI/HR%20Analytics)
